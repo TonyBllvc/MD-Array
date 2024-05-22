@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"livePreview.defaultPreviewPath": "/public/colorbtn.html"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.live-server"
+		]
+	}
+}
